@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnkrcc?style=flat&logo=x&logoColor=ffffff&labelColor=090C16&color=FFADC6)](https://twitter.com/mnkrcc)
 [![GitHub followers](https://img.shields.io/github/followers/mnkrcc?label=Github%20Followers&logo=github&labelColor=090C16&color=FFADC6)](https://github.com/mnkrcc?tab=followers)
 [![Website](https://img.shields.io/website-up-down-green-red/http/mnkr.cc.svg?label=Website%20Status&labelColor=090C16&color=FFADC6)](https://mnkr.cc)
-[![Email](https://img.shields.io/badge/Email-help%40mnkr.cc-FFADC6?style=flat&labelColor=090C16)](mailto:help@mnkr.cc)
+[![Email](https://img.shields.io/badge/Email-help%40mnkr.cc-FFADC6?style=flat&labelColor=090C16&logo=gmail&logoColor=ffffff)](mailto:help@mnkr.cc)
 [![Discord](https://img.shields.io/discord/1141826875753250959?label=Discord&labelColor=090C16&color=FFADC6&logo=discord&logoColor=ffffff)](https://discord.gg/private-for-now)
 
 Welcome to the official GitHub repository for [Moniker](https://mnkr.cc)! Your one-stop destination to seamlessly link and showcase all your online presences.
