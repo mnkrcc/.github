@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-help%40mnkr.cc-FFADC6?style=flat&labelColor=090C16&logo=gmail&logoColor=ffffff)](mailto:help@mnkr.cc)
 [![Discord](https://img.shields.io/discord/1141826875753250959?label=Discord&labelColor=090C16&color=FFADC6&logo=discord&logoColor=ffffff)](https://discord.gg/private-for-now)
 
-Welcome to the official GitHub repository for [Moniker](https://mnkr.cc)! Your one-stop destination to seamlessly link and showcase all your online presences.
+Welcome to the official GitHub repository of [Moniker](https://mnkr.cc)! Your one-stop destination to seamlessly link and showcase all your online presences.
 
 ## 🌐 What is [Moniker](https://mnkr.cc)?
 
