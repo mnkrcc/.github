@@ -1,6 +1,6 @@
 # [Moniker](https://mnkr.cc)
 
-![Banner](github.png)
+![github.png](https://github.com/mnkrcc/.github/blob/main/profile/github.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnkrcc?style=flat&logo=x&logoColor=ffffff&labelColor=090C16&color=FFADC6)](https://twitter.com/mnkrcc)
 [![GitHub followers](https://img.shields.io/github/followers/mnkrcc?label=Github%20Followers&logo=github&labelColor=090C16&color=FFADC6)](https://github.com/mnkrcc?tab=followers)
