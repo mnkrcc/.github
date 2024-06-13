@@ -1,5 +1,3 @@
-# [Moniker](https://mnkr.cc)
-
 ![github.png](https://github.com/mnkrcc/.github/blob/main/profile/github.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnkrcc?style=flat&logo=x&logoColor=ffffff&labelColor=090C16&color=FFADC6)](https://twitter.com/mnkrcc)
