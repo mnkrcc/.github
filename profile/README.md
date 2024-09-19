@@ -1,4 +1,4 @@
-## 🌐 What is **Moniker**?
+## What is **Moniker**? 🌐 
 
 **Moniker** is a unique online platform designed to centralize your digital identity. Here's what you can do with us:
 
