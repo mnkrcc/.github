@@ -1,5 +1,3 @@
-Welcome to the official GitHub repository of **Moniker**! Your one-stop destination to seamlessly link and showcase all your online presences.
-
 ## 🌐 What is **Moniker**?
 
 **Moniker** is a unique online platform designed to centralize your digital identity. Here's what you can do with us:
